@@ -133,9 +133,9 @@ furnished to do so, subject to the following conditions:
 
 **[Marc]**
 
-- GitHub: [@yourusername](https://github.com/marc-zaki)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/marc-zakii/)
-- Email: sherifmark759@gmail.co
+- GitHub: [@marc-zaki](https://github.com/marc-zaki)
+- LinkedIn: [Marc Zaki](https://www.linkedin.com/in/marc-zakii/)
+- Email: sherifmark759@gmail.com
 
 ---
 
