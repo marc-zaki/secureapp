@@ -100,14 +100,6 @@ secure-chat/
 
 ---
 
-## 📚 Documentation
-
-- **[Email Setup Guide](docs/EMAIL_SETUP.md)** - Configure Gmail/SMTP for OTP
-- **[Flutter Setup Guide](docs/FLUTTER_OTP_SETUP.md)** - Mobile app configuration
-- **[Architecture Deep Dive](docs/ARCHITECTURE.md)** - Technical implementation details
-- **[API Documentation](docs/API.md)** - REST endpoints and WebSocket events
----
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
