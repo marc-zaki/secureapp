@@ -1,0 +1,47 @@
+name: secure_chat
+description: End-to-end encrypted P2P chat application
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^18.0.1
+
+
+  # Networking
+  http: ^1.1.0
+  socket_io_client: ^2.0.3+1
+
+  # Storage
+  shared_preferences: ^2.2.2
+
+  # Encryption
+  pointycastle: ^3.7.3
+  asn1lib: ^1.5.0
+  encrypt: ^5.0.3
+
+  # UI
+  flutter_svg: ^2.0.9
+  image_picker: ^1.0.7
+  file_picker: ^6.1.1
+  cached_network_image: ^3.3.1
+
+  # State Management
+  provider: ^6.1.1
+
+  # Utils
+  intl: ^0.18.1
+  path_provider: ^2.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
